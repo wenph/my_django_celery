@@ -8,6 +8,7 @@
 *.mod.c
 *.pyc
 *.log
+*.db
 *_post*
 _install
 _preinstall
